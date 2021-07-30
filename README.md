@@ -1,6 +1,6 @@
 # Age Gender Emotion Detector
 
-**Models can be downloaded with this link(should be kept in the project directory):
+**Models can be downloaded with this link(should be kept in the project directory):**
 
 https://drive.google.com/drive/folders/1bmfBLPJgawz6HQVFTsomrxhN_uwjhBtz?usp=sharing
 
