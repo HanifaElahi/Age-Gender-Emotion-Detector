@@ -1,8 +1,10 @@
 # Age Gender Emotion Detector
 
-**Models can be downloaded with this link(should be kept in the project directory):**
+**Models can be downloaded from this link:**
 
 https://drive.google.com/drive/folders/1bmfBLPJgawz6HQVFTsomrxhN_uwjhBtz?usp=sharing
+
+- Models are needed to be kept in the same project directory
 
 
 **For Live Detection**
